@@ -1,0 +1,23 @@
+
+
+.header-new-year{
+    background-image: url('../resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+    padding: 50px 140px;
+    border-radius: 16px;
+    background-position: center;
+}
+.happy-new-year{
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    
+}
+.Celebration-Party{
+    font-size: 72px;
+    font-family: 900;
+    width: 632px;
+    align-items: center;
+    padding: 233px 344px 177px;
+}
