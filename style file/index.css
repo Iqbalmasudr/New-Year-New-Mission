@@ -4,14 +4,21 @@
     background-image: url('../resources/Banner\ Image.png');
     background-repeat: no-repeat;
     padding: 50px 140px;
-    border-radius: 16px;
-    background-position: center;
+    border-radius: 60px;
+    background-position: center; 
+    /* padding: 233px 344px 177p 177px 530px 0pxx; */
 }
+
+btn-primari{
+    color: #f00;
+}
+
 .happy-new-year{
     color: #FFF;
     text-align: center;
     font-size: 32px;
     font-weight: 400;
+    padding: 0px 50px 0px ;
     
 }
 .Celebration-Party{
@@ -20,4 +27,91 @@
     width: 632px;
     align-items: center;
     padding: 233px 344px 177px;
+    
+}
+
+/* off-65 */
+.off-65-h1{
+    color: #f00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+}
+.our-holiday{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+    color: #f00;
+}
+.all-categories{
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+}
+.new-year-photo{
+    /* align-items: center; */
+    /* justify-content: center;
+    padding: 0, 50px; */
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    display: block;
+}
+.victorrrr{
+    background-image: url('../resources/Vectorrr.png');
+} 
+/* pore korbo ................................... */
+ 
+
+.new-park-hotel{
+    text-align: center;
+    font-family: inter;
+    font-size: 32px;
+    font-weight: 600;
+    margin-top: 100px;
+    line-height: 30px;
+}
+
+samp{
+    color: #f00;
+}
+
+.place{
+    color: #070211;
+}
+.btn{
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 12px;
+    background-color: #f00;
+}
+/* .............................................??? */
+.primari-text-size{
+    font-size: 20px;
+    color: rgba(7, 2, 17, 0.60);
+}
+
+.new-best-offer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+.coming-soon, h4{
+    color: #f00;
+    font-size: 24px;
+    font-weight: 500;
+    
+}
+/* .Coming-Soon, p{
+    width: 393px;
+} */
+.coming-soon,h2{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
 }
